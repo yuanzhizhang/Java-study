@@ -8,13 +8,9 @@
 
 ## Java名称来历
 Java是印度尼西亚爪哇岛的英文名称，因盛产咖啡而闻名。
-
-<<<<<<< HEAD
 ![java logo](./images/Java Logo.png)
 
-​                                                               *Java的logo也正是一杯热气腾腾的咖啡*
-=======
->>>>>>> 361cd15ecb7dbb15a254b2b4f1836ac6ad86b528
+&nbsp;&nbsp;&nbsp;&nbsp;*Java的 logo也正是一杯热气腾腾的咖啡*
 
 ## Java三个版本
 
@@ -27,17 +23,17 @@ Java是印度尼西亚爪哇岛的英文名称，因盛产咖啡而闻名。
 
 JDK：Java开发工具包
 
-​内含一套独立程序，每个程序从命令行调用
+内含一套独立程序，每个程序从命令行调用
 
 JRE：Java运行时的环境
 
-​包含在系统上运行Java程序所需的内容
+包含在系统上运行Java程序所需的内容
 
-​JDK中包含了JRE
+JDK中包含了JRE
 
 ## 安装Java
 
-​请自行百度
+请自行百度
 
 ## 第一个Java应用程序
 
@@ -70,7 +66,7 @@ JRE：Java运行时的环境
 
 ![工作方式](./images/工作.png)
 
-​                                                      *图片来自于《Head First Java》*
+&nbsp;&nbsp;&nbsp;&nbsp;*图片来自于《Head First Java》*
 
 
 ## Java程序结构
@@ -82,10 +78,7 @@ JRE：Java运行时的环境
 > method     -- 方法 
 
 ![](./images/结构.png)
-
-​                                                                  *图片来自于《Head First Java》*
-
-
+&nbsp;&nbsp;&nbsp;&nbsp;*图片来自于《Head First Java》*
 
 ## 注释方法
 
