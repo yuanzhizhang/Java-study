@@ -11,7 +11,6 @@ Java是印度尼西亚爪哇岛的英文名称，因盛产咖啡而闻名。
 <div align=center><img src='./images/Java Logo.png'>
 <center>Java的logo也正是一杯热气腾腾的咖啡</center>
 
-​    
 
 ## Java三个版本
 
@@ -94,6 +93,7 @@ display: inline-block;
 color: #999;
 padding: 2px;">图片来自于《Head First Java》</div>
 </center>
+
 
 ## 注释方法
 
