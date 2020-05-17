@@ -8,6 +8,7 @@
 
 ## Java名称来历
 Java是印度尼西亚爪哇岛的英文名称，因盛产咖啡而闻名。
+
 ![java logo](./images/Java Logo.png)
 
 &nbsp;&nbsp;&nbsp;&nbsp;*Java的 logo也正是一杯热气腾腾的咖啡*
@@ -59,9 +60,7 @@ JDK中包含了JRE
 > javac Hello.java  //编译源代码，会生成一个Hello.class文件
 > java Hello		  //运行Hello程序
 > ```
->
-> ![](./images/cmd java.png)
->
+
 ## java的工作方式
 
 ![工作方式](./images/工作.png)
