@@ -63,4 +63,43 @@ JRE：Java运行时的环境
 >
 > ![](./images/cmd java.png)
 >
-> 
+## java的工作方式
+
+<center>
+<img style="border-radius: 0.3125em;
+box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+src="./images/工作.png">
+<br>
+<div style="color:orange; border-bottom: 1px solid #d9d9d9;
+display: inline-block;
+color: #999;
+padding: 2px;">图片来自于《Head First Java》</div>
+</center>
+
+## Java程序结构
+
+> source file -- 源文件 （拓展名为 .java)
+>
+> class file    -- 类
+>
+> method     -- 方法  
+
+<center>
+<img style="border-radius: 0.3125em;
+box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+src="./images/结构.png">
+<br>
+<div style="color:orange; border-bottom: 1px solid #d9d9d9;
+display: inline-block;
+color: #999;
+padding: 2px;">图片来自于《Head First Java》</div>
+</center>
+
+## 注释方法
+
+```java
+// 单行注释
+
+/*  多行
+	注释 */
+```
