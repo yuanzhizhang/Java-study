@@ -77,6 +77,7 @@ JDK中包含了JRE
 > method     -- 方法 
 
 ![](./images/结构.png)
+
 &nbsp;&nbsp;&nbsp;&nbsp;*图片来自于《Head First Java》*
 
 ## 注释方法
