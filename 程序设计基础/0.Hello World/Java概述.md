@@ -8,10 +8,10 @@
 
 ## Java名称来历
 Java是印度尼西亚爪哇岛的英文名称，因盛产咖啡而闻名。
-<div align=center><img src='./images/Java Logo.png'>
-<center>Java的logo也正是一杯热气腾腾的咖啡</center>
 
-​    
+![java logo](./images/Java Logo.png)
+
+​                                                               *Java的logo也正是一杯热气腾腾的咖啡*
 
 ## Java三个版本
 
@@ -65,16 +65,10 @@ JRE：Java运行时的环境
 >
 ## java的工作方式
 
-<center>
-<img style="border-radius: 0.3125em;
-box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-src="./images/工作.png">
-<br>
-<div style="color:orange; border-bottom: 1px solid #d9d9d9;
-display: inline-block;
-color: #999;
-padding: 2px;">图片来自于《Head First Java》</div>
-</center>
+![工作方式](./images/工作.png)
+
+​                                                      *图片来自于《Head First Java》*
+
 
 ## Java程序结构
 
@@ -82,18 +76,12 @@ padding: 2px;">图片来自于《Head First Java》</div>
 >
 > class file    -- 类
 >
-> method     -- 方法  
+> method     -- 方法 
 
-<center>
-<img style="border-radius: 0.3125em;
-box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-src="./images/结构.png">
-<br>
-<div style="color:orange; border-bottom: 1px solid #d9d9d9;
-display: inline-block;
-color: #999;
-padding: 2px;">图片来自于《Head First Java》</div>
-</center>
+![](./images/结构.png)
+
+​                                                                  *图片来自于《Head First Java》*
+
 
 ## 注释方法
 
