@@ -9,7 +9,7 @@
 ## Java名称来历
 Java是印度尼西亚爪哇岛的英文名称，因盛产咖啡而闻名。
 
-![java logo](./images/Java Logo.png)
+![java logo](./images/JavaLogo.png)
 
 &nbsp;&nbsp;&nbsp;&nbsp;*Java的 logo也正是一杯热气腾腾的咖啡*
 
