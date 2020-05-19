@@ -50,11 +50,11 @@ JDK中包含了JRE
 > }
 > ```
 >
-> *修改文档后缀为.java*
+> *修改文档后缀为 `.java`*
 >
 > *win+r打开运行窗口，输入cmd进入命令行*
 >
-> *先找到我们的程序Hello.java所在目录然后输入*
+> *先找到我们的程序 Hello.java所在目录然后输入*
 >
 > ```
 > javac Hello.java  //编译源代码，会生成一个Hello.class文件
